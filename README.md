@@ -21,4 +21,5 @@
 </div>
 
 
+<img src="https://raw.githubusercontent.com/SkyyHd2855/SkyyHd2855/output/snake.svg" alt="Snake animation" />
 ###
