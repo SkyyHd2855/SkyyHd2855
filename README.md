@@ -45,11 +45,10 @@ export default {
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SkyyHd2855/SkyyHd2855/output/snake.svg" alt="Snake animation" />
+</p>
 
-<img src="https://raw.githubusercontent.com/SkyyHd2855/SkyyHd2855/output/snake.svg" alt="Snake animation" />
-
-</div>
 
 ---
 
