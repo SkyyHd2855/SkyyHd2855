@@ -1,8 +1,7 @@
 ```ts
-// Skyy.dev — VSCode Style README
 
 export default {
-  name: "Skyy",
+  name: "Daniel",
   role: "Full Stack Dev & Bot Engineer",
   location: "Brazil",
   status: "Coding...",
@@ -34,10 +33,6 @@ export default {
 </div>
 
 <div align="left">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&size=18\&duration=2500\&pause=700\&color=00FF9C\&vCenter=true\&width=520\&lines=console.log\(%22Hello+World!%22\);Building+cool+stuff+with+code;Always+learning+new+things)
-
-</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
