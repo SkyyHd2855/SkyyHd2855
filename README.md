@@ -1,39 +1,126 @@
-<h2 align="left"># 👋 Hello World, I'm Daniel</h2>
+```ts
+// ================================
+//  Skyy.dev — VSCode Style README
+// ================================
 
-###
+import { Developer, Skills, Projects, Socials } from "./profile";
 
-<img align="right" height="140" src="https://avatars.githubusercontent.com/u/229660453?v=4"  />
+const Skyy: Developer = {
+  name: "Skyy",
+  location: "Brazil",
+  role: "Full Stack Developer & Bot Engineer",
+  status: "Coding...",
+};
 
-###
+export default Skyy;
+```
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&size=22\&duration=3000\&pause=800\&color=00FF9C\&center=true\&vCenter=true\&width=600\&lines=console.log\(%22Welcome+to+my+profile!%22\);const+dev+%3D+%22Skyy%22;while\(true\)+%7B+code\(\);+%7D)
+
 </div>
 
-###
+---
 
-<br clear="both">
+```ts
+// about.ts
 
-<img src="https://raw.githubusercontent.com/SkyyHd2855/SkyyHd2855/output/snake.svg" alt="Snake animation" />
+export const about = {
+  passion: "Turning ideas into real applications",
+  focus: ["Automation", "Discord Bots", "Web Systems", "APIs", "Games"],
+  learning: ["Advanced Backend", "Scalable Systems", "Security"],
+  funFact: "I turn coffee into code ☕➡️💻",
+};
+```
 
-###
+---
+
+```ts
+// tech-stack.ts
+
+export const technologies = {
+  languages: ["JavaScript", "TypeScript", "Python", "Lua"],
+  frontend: ["HTML", "CSS", "React", "Tailwind"],
+  backend: ["Node.js", "Express", "Fastify"],
+  databases: ["MongoDB", "MySQL", "SQLite", "JSON"],
+  tools: ["Git", "Docker", "VS Code", "Linux"],
+  platforms: ["Discord", "Roblox", "Web"],
+};
+```
+
+<div align="center">
+
+![JS](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge\&logo=javascript\&logoColor=yellow)
+![TS](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge\&logo=typescript\&logoColor=blue)
+![PY](https://img.shields.io/badge/Python-0d1117?style=for-the-badge\&logo=python)
+![NODE](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge\&logo=node.js\&logoColor=green)
+![REACT](https://img.shields.io/badge/React-0d1117?style=for-the-badge\&logo=react\&logoColor=cyan)
+![LUA](https://img.shields.io/badge/Lua-0d1117?style=for-the-badge\&logo=lua\&logoColor=blue)
+
+</div>
+
+---
+
+```ts
+// stats.ts
+
+import { GitHubStats } from "./metrics";
+
+export const stats = GitHubStats({
+  username: "SkyyHd2855",
+  theme: "tokyonight",
+});
+```
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SkyyHd2855&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyyHd2855&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+```ts
+// activity.ts
+
+while (true) {
+  code();
+  debug();
+  build();
+  deploy();
+}
+```
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+```ts
+// contact.ts
+
+export const socials = {
+  discord: "skyy#0001",
+  github: "github.com/SkyyHd2855",
+};
+```
+
+<div align="center">
+
+![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge\&logo=discord\&logoColor=5865F2)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github\&logoColor=white)
+
+</div>
+
+---
+
+```ts
+// main.ts
+
+console.log("Thanks for visiting my profile! 🚀");
+```
