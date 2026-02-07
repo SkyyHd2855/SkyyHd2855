@@ -29,7 +29,7 @@ export default {
 <img width="14"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36"/>
 <img width="14"/>
-<img src="https://cdn.jsdelivr.net/jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36"/>
 <img width="14"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
 <img width="14"/>
