@@ -1,3 +1,5 @@
+# 👋 Hello World, I'm Daniel!
+
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&size=22\&duration=2800\&pause=700\&color=00FF9C\&center=true\&vCenter=true\&width=620\&lines=export+default+%7B;name%3A+%22Skyy%22%2C;role%3A+%22Full+Stack+Dev+%26+Bot+Engineer%22%2C;location%3A+%22Brazil%22%2C;status%3A+%22Coding...%22;};)
